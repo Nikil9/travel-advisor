@@ -10,7 +10,10 @@
     "react-select": "5.3.0",
     "react-router":"6.3.0",
     "react-router-dom":"5.3.0",
-    "react-bootstrap":"2.2.3"
+    "react-bootstrap":"2.2.3",
+    "react-datepicker":"4.7.0",
+    "react-calendar":"3.7.0",
+    "moment":"2.29.3"
   },
   "scripts": {
     "start": "react-scripts start",

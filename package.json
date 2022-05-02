@@ -14,7 +14,11 @@
   "dependencies": {
     "axios": "^0.26.1",
     "concurrently": "^7.0.0",
+    "dayjs": "^1.11.1",
     "express": "^4.17.3",
-    "mysql": "^2.18.1"
+    "moment": "^2.29.3",
+    "mysql": "^2.18.1",
+    "react-calendar": "^3.7.0",
+    "reactstrap-date-picker": "^0.0.15"
   }
 }
